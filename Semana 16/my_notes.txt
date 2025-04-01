@@ -1,0 +1,3 @@
+La programación es como la poesía del siglo XXI; cada línea de código es un verso que transforma ideas en realidad digital.
+Mi sueño es crear un algoritmo que pueda reconocer patrones en la música tradicional de mi región y generar nuevas composiciones que preserven nuestra identidad cultural.
+El mayor desafío que enfrenté en mi último proyecto fue implementar recursividad para resolver un problema que parecía imposible; después de tres noches sin dormir, la solución me llegó mientras tomaba un baño.
